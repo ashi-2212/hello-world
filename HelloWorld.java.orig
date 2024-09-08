@@ -1,6 +1,9 @@
 public class HelloWorld {
   public static void main(String[] args) {
+<<<<<<< HEAD
     System.out.printIn("Hello World! This is from branch1.");
+=======
     System.out.printIn("Hello World! This is from branch2.");
+>>>>>>> branch2
   }
 }
